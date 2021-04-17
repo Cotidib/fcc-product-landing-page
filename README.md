@@ -3,6 +3,10 @@ Simple product landing page with HTML5 and CSS.
 
 Challenge project made for Responsive Web Design Certification at freeCodeCamp.
 
+## CodePen Display
+
+https://codepen.io/cotidi/full/MWJrLgM
+
 ## Assignment
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
